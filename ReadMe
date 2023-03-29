@@ -1,0 +1,1 @@
+This program is an asynchronous function that takes user input and sends it to OpenAI's GPT-3.5 Turbo model for chat completion. The input is passed as a message with the role of "user" to the model, which generates a response. The response is then logged to the console and the user is prompted for another input.
